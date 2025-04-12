@@ -1,0 +1,1 @@
+{"auth": {"username": "513923907@qq.com", "password": "888888qq"}, "scope": {"region": "USA", "delay": 1, "universe": "TOP3000", "instrumentType": "EQUITY"}, "datasets": ["analyst4", "fundamental6"], "param_space": {"neutralization": ["SUBINDUSTRY", "SECTOR"], "decay": [0, 3, 5], "truncation": [0.02, 0.05]}, "smart_filters": {"field_quality": {"coverage": 0.8, "userCount": 500}}}
